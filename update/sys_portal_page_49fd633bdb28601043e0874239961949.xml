@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-11-26 06:38:31">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-25 08:49:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>49fd633bdb28601043e0874239961949</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Due Monthly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_49fd633bdb28601043e0874239961949</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-25 09:38:21</sys_updated_on>
+        <title>PA Due Monthly</title>
+        <user/>
+        <view>pa_needit_application_-_新しいタブ</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Due Monthly">49fd633bdb28601043e0874239961949</page>
+                <summary>NeedIt Requests Due this Month by Request Type</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-11-25 09:33:27</sys_created_on>
+                <sys_id>08283b33db68601043e087423996197f</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-11-25 09:34:55</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:33:27">08283b33db68601043e087423996197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:33:27</sys_created_on>
+                        <sys_id>00283b33db68601043e0874239961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:33:27</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:33:27">08283b33db68601043e087423996197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:33:27</sys_created_on>
+                        <sys_id>48283b33db68601043e0874239961980</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:34:55</sys_updated_on>
+                        <value>NeedIt Requests Due this Month by Request Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:33:27">08283b33db68601043e087423996197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:33:27</sys_created_on>
+                        <sys_id>84283b33db68601043e0874239961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:33:27</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:33:27">08283b33db68601043e087423996197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:33:27</sys_created_on>
+                        <sys_id>88283b33db68601043e087423996197f</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:34:55</sys_updated_on>
+                        <value>a028f3bfdb28601043e08742399619df</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:33:27">08283b33db68601043e087423996197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:33:27</sys_created_on>
+                        <sys_id>c0283b33db68601043e0874239961980</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:33:27</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:33:27">08283b33db68601043e087423996197f</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:33:27</sys_created_on>
+                        <sys_id>cc283b33db68601043e0874239961980</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:34:55</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Due Monthly">49fd633bdb28601043e0874239961949</page>
+                <summary>NeedIt Requests Due this Month</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-11-25 08:49:46</sys_created_on>
+                <sys_id>582e2ff7db28601043e08742399619a9</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-11-25 08:52:14</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="作成日時 2020-11-25 17:49:46">582e2ff7db28601043e08742399619a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 08:49:47</sys_created_on>
+                        <sys_id>142e2ff7db28601043e08742399619ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 08:49:47</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="作成日時 2020-11-25 17:49:46">582e2ff7db28601043e08742399619a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 08:49:47</sys_created_on>
+                        <sys_id>142e2ff7db28601043e08742399619ac</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 08:52:14</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="作成日時 2020-11-25 17:49:46">582e2ff7db28601043e08742399619a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 08:49:46</sys_created_on>
+                        <sys_id>502e2ff7db28601043e08742399619aa</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 08:52:14</sys_updated_on>
+                        <value>345e2ff7db28601043e0874239961998</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="作成日時 2020-11-25 17:49:46">582e2ff7db28601043e08742399619a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 08:49:47</sys_created_on>
+                        <sys_id>502e2ff7db28601043e08742399619ab</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 08:49:47</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="作成日時 2020-11-25 17:49:46">582e2ff7db28601043e08742399619a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 08:49:47</sys_created_on>
+                        <sys_id>9c2e2ff7db28601043e08742399619aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 08:49:47</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="作成日時 2020-11-25 17:49:46">582e2ff7db28601043e08742399619a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 08:49:47</sys_created_on>
+                        <sys_id>d42e2ff7db28601043e08742399619ab</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 08:52:14</sys_updated_on>
+                        <value>NeedIt Requests Due this Month</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Due Monthly">49fd633bdb28601043e0874239961949</page>
+                <summary>NeedIt Requests by Which Half of Month - 6 Month Sum</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-11-26 06:28:17</sys_created_on>
+                <sys_id>61579814db34201043e0874239961902</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-11-26 06:33:40</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="作成日時 2020-11-26 15:28:17">61579814db34201043e0874239961902</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-26 06:28:17</sys_created_on>
+                        <sys_id>29579814db34201043e0874239961903</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-26 06:28:17</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="作成日時 2020-11-26 15:28:17">61579814db34201043e0874239961902</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-26 06:28:17</sys_created_on>
+                        <sys_id>65579814db34201043e0874239961903</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-26 06:28:17</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="作成日時 2020-11-26 15:28:17">61579814db34201043e0874239961902</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-26 06:28:17</sys_created_on>
+                        <sys_id>69579814db34201043e0874239961902</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-26 06:33:40</sys_updated_on>
+                        <value>36575c14db34201043e08742399619c1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="作成日時 2020-11-26 15:28:17">61579814db34201043e0874239961902</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-26 06:28:17</sys_created_on>
+                        <sys_id>a9579814db34201043e0874239961904</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-26 06:33:40</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="作成日時 2020-11-26 15:28:17">61579814db34201043e0874239961902</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-26 06:28:17</sys_created_on>
+                        <sys_id>ad579814db34201043e0874239961903</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-26 06:33:40</sys_updated_on>
+                        <value>NeedIt Requests by Which Half of Month - 6 Month Sum</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="作成日時 2020-11-26 15:28:17">61579814db34201043e0874239961902</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-26 06:28:17</sys_created_on>
+                        <sys_id>e9579814db34201043e0874239961903</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-26 06:28:17</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Due Monthly">49fd633bdb28601043e0874239961949</page>
+                <summary>NeedIt Requests this Year by Month</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-11-25 09:28:02</sys_created_on>
+                <sys_id>a0e6ff7fdb28601043e087423996192b</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-11-25 09:29:45</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:28:02">a0e6ff7fdb28601043e087423996192b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:28:02</sys_created_on>
+                        <sys_id>28e6ff7fdb28601043e087423996192b</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:29:45</sys_updated_on>
+                        <value>ede6fbfbdb28601043e08742399619f1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>render_time</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:28:02">a0e6ff7fdb28601043e087423996192b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:28:02</sys_created_on>
+                        <sys_id>28e6ff7fdb28601043e087423996192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:28:02</sys_updated_on>
+                        <value>0</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:28:02">a0e6ff7fdb28601043e087423996192b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:28:02</sys_created_on>
+                        <sys_id>64e6b333db68601043e0874239961941</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:29:45</sys_updated_on>
+                        <value>pa_widgets</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:28:02">a0e6ff7fdb28601043e087423996192b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:28:02</sys_created_on>
+                        <sys_id>64e6ff7fdb28601043e087423996192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:28:02</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:28:02">a0e6ff7fdb28601043e087423996192b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:28:02</sys_created_on>
+                        <sys_id>68e6b333db68601043e0874239961940</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:29:45</sys_updated_on>
+                        <value>NeedIt Requests this Year by Month</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="作成日時 2020-11-25 18:28:02">a0e6ff7fdb28601043e087423996192b</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-11-25 09:28:02</sys_created_on>
+                        <sys_id>a0e6ff7fdb28601043e087423996192c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-11-25 09:28:02</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
